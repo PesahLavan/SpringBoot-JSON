@@ -1,4 +1,4 @@
-package ru.javabegin.example.hibernate;
+package com.pesahlavan.example.hibernate;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

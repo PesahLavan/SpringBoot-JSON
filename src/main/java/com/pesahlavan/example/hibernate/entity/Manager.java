@@ -1,4 +1,4 @@
-package ru.javabegin.example.hibernate.entity;
+package com.pesahlavan.example.hibernate.entity;
 
 import com.fasterxml.jackson.annotation.JsonBackReference;
 import com.fasterxml.jackson.annotation.JsonIdentityInfo;

@@ -1,11 +1,11 @@
-package ru.javabegin.example.hibernate.controller;
+package com.pesahlavan.example.hibernate.controller;
 
 import com.google.common.collect.Lists;
+import com.pesahlavan.example.hibernate.entity.Manager;
+import com.pesahlavan.example.hibernate.repository.ManagerRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-import ru.javabegin.example.hibernate.entity.Manager;
-import ru.javabegin.example.hibernate.repository.ManagerRepository;
 
 import java.util.List;
 
